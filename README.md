@@ -4,7 +4,7 @@ This repository contains all my beginner Java programs and notes as I learn Java
 I'm using this space to practice, improve, and track my journey into tech—one step at a time.
 
 ## Topics Covered
-- [ ] Hello World  
+- [x] Hello World  
 - [ ] Loops  
 - [ ] Arrays  
 - [ ] Functions  
