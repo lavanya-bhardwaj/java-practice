@@ -1,7 +1,7 @@
 # Java Practice
 
 This repository contains all my beginner Java programs and notes as I learn Java from scratch.  
-I'm using this space to practice, improve, and track my journey into tech—one step at a time.
+I'm using this space to practice, improve, and track my journey into tech one step at a time.
 
 ## Topics Covered
 - [x] Hello World  
